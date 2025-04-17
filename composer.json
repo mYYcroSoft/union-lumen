@@ -1,0 +1,7 @@
+{
+    "require": {
+        "illuminate/session": "^12.8",
+        "illuminate/cookie": "^12.8",
+        "illuminate/encryption": "^12.8"
+    }
+}
